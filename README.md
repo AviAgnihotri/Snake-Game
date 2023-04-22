@@ -14,4 +14,13 @@
 
 
 
+
+
+
+
+
+
+
+
+
 _Feel free to customize the game by modifying the code, changing game settings, or adding new features. Have fun playing the Snake Game and enjoy the nostalgia of this classic game._
